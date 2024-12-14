@@ -57,7 +57,24 @@ Cada dia contém uma atividade específica com a descrição, tecnologias utiliz
 - **Dia 10**: Calculadora Simples  
   Métodos: `parseFloat()`, `switch`
 
-### **Dias 11 a 20: Integração com SQL Server e Node.js**
+### **Dias 11 a 15: Projetos com JavaScript Avançado**
+
+- **Dia 11**: Conversor de Moedas  
+  Métodos: `fetch()`, `.toFixed()`, `async/await`
+
+- **Dia 12**: To-Do List Interativa  
+  Métodos: `createElement()`, `appendChild()`, `localStorage`
+
+- **Dia 13**: Jogo de Adivinhação  
+  Métodos: `Math.random()`, `alert()`, `while`
+
+- **Dia 14**: Pesquisa em Tempo Real  
+  Métodos: `.includes()`, `input event`, `filter()`
+
+- **Dia 15**: Controle de Slides  
+  Métodos: `setInterval()`, `nextElementSibling`, `previousElementSibling`
+
+### **Dias 16 a 20: Integração com SQL Server e Node.js**
 
 - **Dia 16**: Configuração do Banco de Dados (SQL Server)  
   Comandos: `CREATE TABLE`, `INSERT INTO`
@@ -74,7 +91,24 @@ Cada dia contém uma atividade específica com a descrição, tecnologias utiliz
 - **Dia 20**: Edição e Exclusão de Registros  
   Comandos: `UPDATE`, `DELETE`
 
-### **Dias 21 a 30: Projetos Web Full Stack e Refinamento**
+### **Dias 21 a 25: Projetos Web Full Stack**
+
+- **Dia 21**: Página de Listagem de Produtos  
+  SQL: `SELECT`, `ORDER BY`
+
+- **Dia 22**: Carrinho de Compras Simples  
+  Métodos: `localStorage`, `push()`, `map()`
+
+- **Dia 23**: Dashboard de Usuários  
+  Métodos: `fetch()`, `reduce()`, `chart.js`
+
+- **Dia 24**: Upload de Arquivos  
+  Node.js: `multer`; SQL: `BLOB`
+
+- **Dia 25**: Filtro Avançado com SQL  
+  SQL: `WHERE`, `LIKE`, `BETWEEN`
+
+### **Dias 26 a 30: Projetos Avançados e Refinamento**
 
 - **Dia 26**: Sistema de Blog  
   Tags: `<textarea>`, `<article>`; SQL: `JOIN`
